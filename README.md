@@ -57,7 +57,7 @@ Python visualization libraries
 Open scientific datasets
 
 scientific visualization lab advanced three dimensional analysis and computational fluid dynamics modeling
-
+![Streamline Flow Visualization](https://github.com/raymondhernandez482/Scientific-Visualization-Lab/blob/acdeb357c46cef88fae3c6f9164a12e3dc79d28f/para%2013.jpg?raw=true)
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![ParaView Version](https://img.shields.io/badge/ParaView-5.10+-orange.svg)
 ![Field](https://img.shields.io/badge/Field-Computational_Fluid_Dynamics-red)
