@@ -103,3 +103,46 @@ This Project Uses The MIT License.
 Contact and Collaboration
 Looking into jobs that mix data visuals with scientific computing tasks. My focus leans toward positions where numbers meet clear graphics. Work involving code and visual storytelling fits well. Opportunities showing real results through images interest me most. Roles letting me shape complex info into something viewable stand out.
 GitHub: [@raymondhernandez482](https://github.com/raymondhernandez482)
+
+
+_**scientific visualization lab advanced three dimensional analysis and computational fluid dynamics modeling**_
+
+![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+![ParaView Version](https://img.shields.io/badge/ParaView-5.10+-orange.svg)
+![Field](https://img.shields.io/badge/Field-Scientific_Computing-blue)
+
+** Project Overview**
+This space holds a range of science-focused visuals built from scratch. Through ParaView, raw numbers shift into clear 3D images - focusing on volume displays, flow paths, and symbol-based data tracking.
+
+Project One Arrow Symbol and Section Study
+A single slice through the dataset forms the base layer here. Arrows appear across it, each acting as a marker for direction and strength in three dimensions. These markers - called glyphs - are not just symbols but representations of underlying vectors. Their placement follows the structure of the section precisely. Each one points where the field pushes, shaped by magnitude and orientation. Visualization relies entirely on these indicators to convey motion within the volume. The method turns abstract values into visible paths.
+
+![Vector Glyph Visualization](https://github.com/raymondhernandez482/Scientific-Visualization-Lab/blob/main/para%2014.jpg?raw=true)
+
+**Technical Highlights:**
+From up above, tiny 3D arrows now point where the flow goes, sized just right to match strength. Each one sits exactly where it should, guiding eyes without clutter. Where motion happens, these markers align - clear, quiet, doing their job.
+Through the vector cloud, a flat cut shows what's hidden inside. A thin sheet uncovers values beneath the surface flow. Inside the swirl, a window opens to see numbers at rest. What lies within comes into view when split by a level pass. Behind moving lines, still data appears on a cross section.
+A backdrop image gave the scene more depth, making the layout feel real. Space around the design opened up thanks to a skybox that filled distant views naturally. The setting took shape using environmental textures that grounded the structure visually. Visual layers built outward by applying horizon details behind the main form. Distant elements helped frame the object without crowding it.
+
+**Project Two Simplify Air And Surface Testing**
+A path of moving liquid inside a shaped passage appears clearly. Following lines show how the fluid travels along its route. A frame made of thin edges outlines the structure around it. Lines flow smoothly where the shape guides them. The mesh sits lightly over the motion, adding context without hiding details.
+
+![Fluid Flow Visualization](https://github.com/raymondhernandez482/Scientific-Visualization-Lab/blob/acdeb357c46cef88fae3c6f9164a12e3dc79d28f/para%2013.jpg?raw=true)
+
+**Technical Highlights**:
+Following the flow paths revealed how speed and push changed across space. These lines traced out where things moved faster or slower. Pressure shifts showed up clearly along each path. Patterns emerged as the data flowed through the design.
+Flow patterns inside a three-dimensional space were mapped by tracking shifting pressure points. A close look at how air moves revealed pockets where it loops back on itself. Instead of moving forward, some parts turn around and mix with incoming flow. Pressure differences helped show exactly where this happens. The method used scattered data points to outline these hidden cycles clearly.
+
+**Project Three Ice Volume Measurement**
+Finding hidden layers inside a 3D space where density shifts quietly beneath. Waves ripple across the outer edges while deeper parts stay dense and slow. Movement on the outside often hides what presses inward. Inside weight changes shape without breaking the surface rhythm. Each layer responds when pressure builds from within rather than from touch.
+
+![Scalar Field Visualization](https://github.com/raymondhernandez482/Scientific-Visualization-Lab/blob/a7ff8675c6169abca29e3b55f3760eac64c834e2/para%2012.jpeg?raw=true)
+
+****Technical Highlights:
+A clever mix of transparency settings brought inner layers into view. Hidden details emerged through finely tuned light filters. What once stayed buried now showed itself clearly. Subtle shifts in density became visible by adjusting how light passed through. Structures deep inside appeared without distortion. Careful control over brightness revealed what was previously unseen.
+ **Professional Skillset**
+Stream tracing shows flow paths through space. Meanwhile, glyphs place symbols at points to represent data values. Instead of flat views, isosurfaces form 3D shapes where a value stays constant. Cutting away parts reveals inner structure using slice or clip methods. On another hand, volume rendering displays entire datasets in translucent layers.
+Floating through datasets means working closely with .vti files, especially when visuals matter in lab work. Sometimes .vtk steps in where details need more room to breathe. Then there is .stl - often seen when shapes must translate into physical forms. Each format carries its own rhythm, depending on what the experiment demands.
+ParaView VTK and Python for data visualization.
+ **License**
+Got permission? This one runs on MIT rules. Freedom built right in, no extra charge. Copy, tweak, share - just keep the original notice around. Legal stuff stays attached, always. That's how it works here.
