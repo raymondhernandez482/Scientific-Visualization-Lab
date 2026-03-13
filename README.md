@@ -21,7 +21,7 @@ Scientific Visualization Lab 3D Scalar Fields Volume Rendering
 ![ParaView Version](https://img.shields.io/badge/ParaView-5.10+-orange.svg)
 ![Field](https://img.shields.io/badge/Field-Data_Science-green)
 
-Project Overview
+**Project Overview**
 Inside this collection, you will find methods built inside the Scientific Visualization Lab that push how we see data. Most attention goes toward making sense of 3D scalar fields by working through ParaView to pull clear meaning out of tangled information sets. Instead of just flat views, imagine seeing depth - here, volume-based and surface-style visuals team up so patterns across space, shifts in slope, or repeating waves stand out clearly within a set grid structure.
 
  Featured Visualization
