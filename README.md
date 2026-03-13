@@ -26,12 +26,14 @@ Ray Casting Volume Rendering.
 Above all, this method helps check data without altering it. Where the volume's bottom grows denser, transparency reveals concentrations through mapped values. What stands out is how clearly regions emerge when opacity shifts with density.
 Hidden patterns inside data come into view when you look beyond the surface layer. What lies beneath often stays unseen. Peeking past the edges shows how values truly spread out. Most summaries hide this variation. Looking deeper uncovers uneven spreads. The full picture appears only when you move inward. Surface numbers rarely tell the whole story.
 
-2. Isosurface and Surface Mapping Right View
+**2. Isosurface and Surface Mapping Right View
+**
 Surface Rendering Using Scalar Values.
 Beyond the edges, patterns start to show. Where values stretch furthest, changes become clear. At limits, what happens stands out more. Extremes reveal how things shift. Near cutoffs, movement gets noticeable.
 Now showing up near the top edge, orange shifting into red hints at repeating patterns from the origin. These shifts appear sharply, staying true to timing details within the signal.
 
-Packages and Installation
+**Packages and Installation
+**
 Start by checking that your setup supports what comes next. For things to work right, each piece must fit the needed conditions. Only when everything lines up properly will you see the same outcome. Match every detail closely if similar output matters. Getting it correct means paying attention to how things are arranged beforehand
 
 ParaView version 5.10 or newer main rendering engine.
@@ -39,9 +41,10 @@ Last on the list but doing heavy lifting behind the scenes - VTK handles what ha
 Python 3.x optional for automated state file creation with pvpython.
 Recommended GPU with OpenGL for real-time volumetric ray-casting.
 
-Reproduction Steps
-Load Dataset Into ParaView.
-Switch to Volume under Representation settings. The Color Map Editor opens next - adjust the opacity curve there to reduce faint background clutter. A bump at the start sharpens what matters. Watch dim areas fade cleanly. This shape trims static without touching core details. Curve tweaks here fine-tune depth clarity. Smudged spots vanish when slope changes are steep enough. Each slide of the handle resets how data shows through. Focus shifts where contrast pulls forward. Noise drops off as thresholds rise gradually. Final form appears once transparency levels settle just right.
+**Reproduction Steps
+**
+_Load Dataset Into ParaView.
+_Switch to Volume under Representation settings. The Color Map Editor opens next - adjust the opacity curve there to reduce faint background clutter. A bump at the start sharpens what matters. Watch dim areas fade cleanly. This shape trims static without touching core details. Curve tweaks here fine-tune depth clarity. Smudged spots vanish when slope changes are steep enough. Each slide of the handle resets how data shows through. Focus shifts where contrast pulls forward. Noise drops off as thresholds rise gradually. Final form appears once transparency levels settle just right.
 A different way to see things shows up when splitting the view. The display shifts into Surface mode automatically. This setup changes how items appear without extra steps
 A sudden check of Axes Grid helps keep direction clear when moving between scenes. The Orientation Widget pops up beside it, offering a glance at positioning. From there, views stay grounded without extra steps.
 
