@@ -1,5 +1,18 @@
 # Scientific Visualization Lab
 
+This repository contains scientific visualization experiments created to explore complex datasets using visualization techniques.  
+The goal of this project is to demonstrate how scientific data can be interpreted and analyzed using visualization workflows commonly used in research and AI training environments.
+
+## Tools Used
+- ParaView
+- Scientific datasets
+- Data rendering techniques
+- 
+## Visualization Techniques
+- Surface rendering
+- Volume rendering
+- Mesh visualization
+- Dataset exploration
 Experiments in scientific data visualization and simulation rendering.
 ![Scientific Visualization](https://github.com/raymondhernandez482/Scientific-Visualization-Lab/blob/a7ff8675c6169abca29e3b55f3760eac64c834e2/para%2012.jpeg?raw=true)
 Scientific Visualization Lab 3D Scalar Fields Volume Rendering
